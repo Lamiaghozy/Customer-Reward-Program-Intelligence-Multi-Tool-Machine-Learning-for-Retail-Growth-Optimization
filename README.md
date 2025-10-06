@@ -85,11 +85,12 @@ Metric: RMSE (Validation set)
 
 📸 Visuals & Workflows
 
-| Tool       | Screenshot                                                                                | Description                          |
-| ---------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
-| KNIME      | ![KNIME Workflow]([notebooks/knime_workflow_screenshots/knime_workflow.png](https://github.com/Lamiaghozy/Customer-Reward-Program-Intelligence-Multi-Tool-Machine-Learning-for-Retail-Growth-Optimization/blob/main/Data/knime_workflow.png?raw=true))                | End-to-end classification tree setup |
-| RapidMiner | ![RapidMiner Workflow](notebooks/rapidminer_workflow_screenshots/rapidminer_workflow.png) | Bagged/Boosted NN configuration      |
-| Python     | ![Python Results](notebooks/python_results/python_tree_precision_output.png)              | RMSE output              |
+| Tool       | Screenshot                                                                                | Description         
+| KNIME | ![KNIME Workflow](https://github.com/Lamiaghozy/Customer-Reward-Program-Intelligence-Multi-Tool-Machine-Learning-for-Retail-Growth-Optimization/blob/main/Data/knime_workflow.png)  | End-to-end classification tree setup |
+
+| RapidMiner | ![RapidMiner Workflow](https://github.com/Lamiaghozy/Customer-Reward-Program-Intelligence-Multi-Tool-Machine-Learning-for-Retail-Growth-Optimization/blob/main/Data/rapidminer_workflow.png) | Bagged/Boosted NN configuration|
+
+| Python | ![Python Results](https://github.com/Lamiaghozy/Customer-Reward-Program-Intelligence-Multi-Tool-Machine-Learning-for-Retail-Growth-Optimization/blob/main/Data/neural_network_bagging_and_boosting.ipynb) | RMSE output |
 
 💡 Insights
 
