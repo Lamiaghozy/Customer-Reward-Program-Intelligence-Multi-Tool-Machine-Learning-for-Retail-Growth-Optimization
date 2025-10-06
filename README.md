@@ -101,3 +101,29 @@ Ensemble methods (bagging/boosting) provide moderate improvement in stability bu
 Neural networks show consistent RMSE performance, suggesting diminishing returns with a small sample size.
 
 Demonstrates strong cross-platform mastery—a key advantage for data science roles requiring tool flexibility.
+
+🚀 Skills Demonstrated
+
+Data Preprocessing & Feature Selection
+
+Classification & Regression Modelling
+
+Ensemble Learning (Bagging, Boosting)
+
+Cross-Platform Machine Learning
+
+Model Evaluation (Precision, RMSE)
+
+Visualization & Interpretation
+
+🏁 Author
+
+👩‍💼 Dr. Lamia Ghozy
+
+Business Intelligence Analyst | Data Scientist
+
+Passionate about practical machine learning and real-world analytics impact.
+
+🌍 LinkedIn Profile
+ (www.linkedin.com/in/dr-lamia-ghozy-dba-mba-ci-nlp)
+ 
