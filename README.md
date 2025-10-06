@@ -87,7 +87,7 @@ Metric: RMSE (Validation set)
 
 | Tool       | Screenshot                                                                                | Description                          |
 | ---------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
-| KNIME      | ![KNIME Workflow](notebooks/knime_workflow_screenshots/knime_workflow.png)                | End-to-end classification tree setup |
+| KNIME      | ![KNIME Workflow]([notebooks/knime_workflow_screenshots/knime_workflow.png](https://github.com/Lamiaghozy/Customer-Reward-Program-Intelligence-Multi-Tool-Machine-Learning-for-Retail-Growth-Optimization/blob/main/Data/knime_workflow.png?raw=true))                | End-to-end classification tree setup |
 | RapidMiner | ![RapidMiner Workflow](notebooks/rapidminer_workflow_screenshots/rapidminer_workflow.png) | Bagged/Boosted NN configuration      |
 | Python     | ![Python Results](notebooks/python_results/python_tree_precision_output.png)              | RMSE output              |
 
